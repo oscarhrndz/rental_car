@@ -1,6 +1,6 @@
 # Rental Car Application
 
-A new Flutter project.
+This is a Rental Car Application powered and based on Flutter.
 
 ## Getting Started
 
