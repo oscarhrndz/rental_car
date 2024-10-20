@@ -27,10 +27,4 @@ This section includes an overview of the different screens in the app, showing t
 - Use an interactive map to view car locations.
 - Simple and clean UI for easy navigation.
 
-## Installation
 
-To run this project on your local machine, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/rental-car-app.git
