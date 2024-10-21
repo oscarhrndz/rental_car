@@ -14,7 +14,7 @@ This section includes an overview of the different screens in the app, showing t
 
 ## Features
 
-- Browse available cars for rent.
-- View detailed car information, including pricing, specifications, and availability.
+- Show the cars available
+- View detailed car information, including pricing, specifications, and location.
 - Use an interactive map to view car locations.
 - Simple and clean UI for easy navigation.
